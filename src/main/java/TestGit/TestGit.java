@@ -23,10 +23,10 @@ public class TestGit
         person1.age = 35;
         person1.firstName = "July";
         person2.age = 30;
-        person2.firstName = "Alex";
+        person2.setFirstName("Alex");
 
-        System.out.println(person1.firstName + "" + person1.age);
-        System.out.println(person2.firstName + "" + person2.age);
+        System.out.println(person1.getFirstName() + "" + person1.age);
+        System.out.println(person2.getFirstName() + "" + person2.age);
     }
     {        String empty = "";
             String nullString = null;
