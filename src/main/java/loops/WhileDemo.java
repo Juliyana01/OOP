@@ -14,14 +14,15 @@ public class WhileDemo {
         }
     }
 
-    public static void factorial(){
-            int n = 5;
+    public static void factorial(int n){
             int factorial = 1;
+
             while (n > 0){
                 n *= n;
                 n--;
 
             }
+        System.out.println(factorial);
         }
 }
 
