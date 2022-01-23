@@ -1,0 +1,6 @@
+
+W
+java:S1117"<Rename "firstName" which hides the field declared at line 7.(ßæÆÑıÿÿÿÿ
+p
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Áä÷ûÿÿÿÿ

@@ -1,0 +1,12 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "number".(”ÐãÆÿÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ó˜ÉÓþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÚË¢ºøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ÂÉÒþÿÿÿÿ
+C
+java:S1199	"-Extract this nested code block into a method.(šÓ“Ý
+‡
+java:S2681	"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(šÓ“Ý

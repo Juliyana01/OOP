@@ -9,7 +9,7 @@ public class Test
 
     public static void compare(int a, int b)
     {
-        System.out.println(a > b ? "First number is grater" : "Might be equal");}
-}
+        System.out.println(a > b ? "First number is grater" : "Might
 
 
+int x = 9;
